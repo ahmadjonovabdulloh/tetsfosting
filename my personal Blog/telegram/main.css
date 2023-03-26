@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.icon{
+    text-align:center;
+    line-height: 50px;
+    text-transform: uppercase;
+}
+.icon h1{
+    color: #f9004f;
+    text-align:unset;
+    margin-top: 15%;
+    flex-wrap: wrap;
+    font-size: 75px;
+    line-height: 100px;
+}
+.icon h2{
+    line-height: 60px;
+    text-align:center;
+    flex-wrap: wrap;
+    color: aqua;
+    font-size: 45px;
+}
+body{
+    height: 100vh;
+    width: 100%;
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5),#000000) ,url(./photo_2023-01-04_19-11-38.jpg);
+    background-size: cover;
+    background-position: center;
+}

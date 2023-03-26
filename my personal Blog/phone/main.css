@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.icon{
+    text-align: center;
+    margin-top: 15%;
+}
+.icon h1{
+    font-size: 75px;
+    color: #f9004f;
+    line-height: 100px;
+}
+.icon h2{
+    color: aqua;
+    line-height: 80px;
+    font-size: 45px;
+}
+body{
+    height: 100vh;
+    width: 100%;
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5),#000000) ,url(./photo_2023-01-04_19-11-38.jpg);
+    background-size: cover;
+    background-position: center;
+}
